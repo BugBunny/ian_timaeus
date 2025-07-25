@@ -34,11 +34,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "http://scholar.google.co.uk/citations?user=EwLqmPUAAAAJ"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=EwLqmPUAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8011-4806"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  semantic         : # URLian+timaeus"
   researchgate     : https://www.researchgate.net/profile/Ian_Timaeus
   scopus           : http://www.scopus.com/authid/detail.url?authorId=6701338785
 
