@@ -1,30 +1,20 @@
 ---
-layout: archive
 title: "CV"
+layout: archive
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: /resume
 ---
 
-{% include base_path %}
 # [Ian Timæus](https://bugbunny.github.io/ian_timaeus/ "Ian Timæus")
 
-[Skip to content](#content "Skip to content")
-
--   [Home](http://blogs.lshtm.ac.uk/iantimaeus/)
--   [Biography](https://blogs.lshtm.ac.uk/iantimaeus/biography/)
--   [Contact](https://blogs.lshtm.ac.uk/iantimaeus/contact/)
--   [Links](https://blogs.lshtm.ac.uk/iantimaeus/links/)
--   [Publications](https://blogs.lshtm.ac.uk/iantimaeus/publications/)
-
-# Biography
+## Biography
 
 I started my career in the software industry but began working in 1980 in what has been successively titled the Centre/Department of Population Studies/Health at the London School of Hygiene & Tropical Medicine (LSHTM). My first degree is in social anthropology and I like to think of myself as a social scientist, although most of my work has been in quantitative demography. I did an MSc in Demography at LSE and completed a PhD at LSHTM on the estimation of adult mortality from data on orphanhood.
 
 Since October 2021 I have been Emeritus Professor of Demography at LSHTM and I am also an Honorary Professor of the University of Cape Town based in the Centre for Actuarial Research.
 
-**Research Interests**
+### Research Interests
 
 Until about 20 years ago the most important focus of my research was adult health and mortality. I have written several papers on methods for measuring adult mortality in the developing world. My [PhD thesis](http://blogs.lshtm.ac.uk/iantimaeus/files/2012/04/Timaeus-Advances-in-the-Measurement-of-Adult-Mortality.pdf "Download") was on using orphanhood data for this. Subsequently, my work in this area focused mainly on how to use survey data to measure adult mortality in populations with high AIDS mortality. I contributed a number of chapters to the [IUSSP/UNFPA manual on demographic estimation](http://demographicestimation.iussp.org/ "IUSSP/UNFPA Manual on Demographic Estimation"). As well as working on methods, I have produced several substantive papers on adult mortality and AIDS mortality in Africa and became involved for a while in work on the burden of disease.
 
@@ -36,7 +26,7 @@ I also have a long-standing research interest in the transition to low fertility
 
 My past research into population issues in Britain concentrated on investigating the changing size and characteristics of populations of particular importance for health and social policy, such as older people and children in local authority care. More recently, I published a paper on ethnic differentials in mortality in England and Wales.
 
-**Curriculum Vitæ**
+## Curriculum Vitæ
 
 Full name: Ian Manfred TIMÆUS.  
 Emeritus Professor of Demography,  
@@ -46,7 +36,7 @@ ian.timaeus@lshtm.ac.uk
 Nationality: British  
 Languages: Native English, working knowledge of French
 
-*University Education and Degrees*
+### University Education and Degrees
 
 1987-9: [London School of Hygiene & Tropical Medicine](http://www.lshtm.ac.uk/), University of London. (part-time)  
 – 1990: PhD, Title: *[Advances in the Measurement of Adult Mortality from Data on Orphanhood](https://doi.org/10.17037/PUBS.04653370 "Download")*  
@@ -56,7 +46,7 @@ Languages: Native English, working knowledge of French
 – 1982: MA  
 – 1978: BA(Hons) in [Social Anthropology](http://www.socanth.cam.ac.uk/)
 
-*Employment History*
+### Employment History
 
 2005: Confered title of Professor of Demography, LSHTM  
 2000: Confered title of Reader in Demography, LSHTM  
@@ -65,11 +55,11 @@ Languages: Native English, working knowledge of French
 1980: Appointed Research Fellow, Centre for Population Studies, LSHTM  
 1979-80: Programmer, TRIAD Computing Systems Ltd, London
 
-*Fellowships*
+### Fellowships
 
 1989: [Population Council](http://www.popcouncil.org/ "Open link in a new window") Fellow in the Social Sciences based at the [Population Studies Center](https://www.pop.upenn.edu/ "Open link in a new window"), University of Pennsylvania
 
-*Honorary Appointments*
+###Honorary Appointments
 
 2014 on: Honorary Professor, [Centre for Actuarial Research](http://www.care.uct.ac.za/ "Open the Centre for Actuarial Research website"), University of Cape Town, South Africa  
 2004-12: Visiting Scientist, Population Studies Group, [Wellcome Africa Centre for Health and Population Studies](https://www.ahri.org/ "Open link in a new window"), South Africa  
@@ -87,7 +77,7 @@ Languages: Native English, working knowledge of French
 1991 on: Member, [Centre of African Studies](http://www.soas.ac.uk/cas/ "Open the CAS website"), University of London  
 1989-93: Member, Scientific Committee on Adult Mortality, [International Union for the Scientific Study of Population](http://www.iussp.org/ "Open the IUSSP website in a new window")
 
-*Projects and Consultancies*
+### Projects and Consultancies
 
 2012-13: Principal Investigator, [Poverty and Inequalities in Child Welfare Outcomes in South Africa: Analysis of Panel Data](https://gtr.ukri.org/projects?ref=ES%2FI03501X%2F1 "Open this page of the RCUK website") (funded by the [Economic and Social Research Council](https://www.ukri.org/councils/esrc/ "Open the ESRC website"))  
 2011-13: Co-Principal Investigator, [Population Analysis for Policy & Programmes](http://papp.iussp.org/ "Open this page of the IUSSP website") (funded by UNFPA via the IUSSP)  
@@ -120,7 +110,7 @@ Languages: Native English, working knowledge of French
 1983: Consultant to the World Fertility Survey, undertaking the evaluation of the Lesotho Fertility Survey 1977  
 1982-4: Demographic Advisor for [DFID](http://www.dfid.gov.uk/) to the POPTRAN computer-assisted population education project at University College, Cardiff
 
-*Research students*
+### Research students
 
 Myunggu Jung (jointly with Kazuyo Machiyama and Christopher Jarvis) [*Spatial Aspects of Fertility Change in Ethiopia between 2000 and 2016: A district-level analysis*](https://doi.org/10.17037/PUBS.04671209 "LSHTM Research Online"). DrPH, 2023  
 Anne Rerimoi [*Development and Assessment of Systems for Population-Based Estimation of Neonatal and Perinatal Mortality in The Gambia*](https://doi.org/10.17037/PUBS.04653619 "LSHTM Research Online"). PhD, 2019  
@@ -137,7 +127,7 @@ William Muhwava *Fertility Decline and the Determinants of Reproductive Change i
 Nelson Onuoha *Changing Patterns of Reproduction and Social Organization in West Africa*. Posthumous MPhil, 1994  
 Yaser Al-Naser *Inequalities in Child Survival in Bahrain: The role of marriage in a low mortality population*. PhD, 1993
 
-*Teaching, Training and Academic Management*
+### Teaching, Training and Academic Management
 
 2013-16: External Examiner, MSc in Population and Development, [London School of Economics](http://www.lse.ac.uk/ "Open link in a new window")  
 2012-15: Produced 13 half-day sessions of distance-learning materials in demography for the [Population Analysis for Policies & Programmes](http://papp.iussp.org/) project and for LSHTM.  
