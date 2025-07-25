@@ -26,10 +26,10 @@ author:
   name             : "Ian Timaeus"
   pronouns         : # example: "she/her"  
   bio              : "Emeritus Professor of Demography"
-  location         : "United Kingdom"
-  employer         : "London School of Hygiene & Tropical Medicine"
+  location         : "London, United Kingdom"
+  employer         : "School of Hygiene & Tropical Medicine"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ian.timaeus@lshtm.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "iantimaeus" # Replace this with you Bluesky username
+  bluesky          : "Ian Timaeus" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
