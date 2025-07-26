@@ -69,7 +69,7 @@ Languages: Native English, working knowledge of French
 2005-9: Co-investigator, [ALPHA-network](https://alpha.lshtm.ac.uk/ "Open the ALPHA website"): Analysing Longitudinal Population-based HIV/AIDS data on Africa (funded by the [Wellcome Trust](https://www.wellcome.ac.uk/ "Open The Wellcome Trust website"))  
 2007: Consultant, [UNAIDS](https://www.unaids.org/ "Open the UNAIDS website"). Methods for estimating double orphans among maternal and paternal orphans for the Reports on the Global HIV/AIDS Epidemic  
 2004: Consultant, [UNAIDS](https://www.unaids.org/en/default.asp "Open the UNAIDS website"). Evaluation of biases in survey data on orphans and selection of mortality schedules for projecting orphans in Africa  
-2003-4: Co-Principal investigator, [KwaZulu-Natal Income Dynamics Study, Round 3](https://doi.org/10.25828/j638-tz61 "Open the DataFirst website") (funded by the [UK Department for International Development](https://www.dfid.gov.uk/))  
+2003-4: Co-Principal investigator, [KwaZulu-Natal Income Dynamics Study, Round 3](https://doi.org/10.25828/j638-tz61 "Open the DataFirst website") (funded by the then [UK Department for International Development](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office))  
 2002: Consultant, [UNAIDS](https://www.unaids.org/en/default.asp "Open the UNAIDS website"). Developed methods for estimating maternal, paternal and double AIDS and other orphans for African countries  
 2001-3: Co-investigator, Rapid AIDS Mortality Surveillance in South Africa (funded by Bristol Myers Squibb ‘Secure the Future’)  
 2001-3: Co-investigator, AIDS in Namibian Society (funded by the Academy of Finland)  
@@ -89,7 +89,7 @@ Languages: Native English, working knowledge of French
 1985-6: Consultant with Dar Al-Handasah Consultants on the Çukurova Metropolitan Region Urban Development Project in Turkey. Responsible for the baseline surveys of low-income areas. Prepared a report on housing, sanitation and child mortality in the region and a proposal for the evaluation of the public health impact of the project  
 1983-4: Consultant to the World Fertility Survey, preparing an assessment of the fertility and mortality estimates obtained from WFS household surveys  
 1983: Consultant to the World Fertility Survey, undertaking the evaluation of the Lesotho Fertility Survey 1977  
-1982-4: Demographic Advisor for ODA( now the[FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office) to the POPTRAN computer-assisted population education project at University College, Cardiff
+1982-4: Demographic Advisor for ODA (now the[FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) to the POPTRAN computer-assisted population education project at University College, Cardiff
 
 ### Research students
 
@@ -119,7 +119,7 @@ Yaser Al-Naser *Inequalities in Child Survival in Bahrain: The role of marriage 
 –  Analysing Survey and Population Data (sessions on event history analysis)  
 2011-12: Head, Department of Population Studies  
 2008-11: Chair, Board of Examiners, [MSc Demography and Health](https://www.lshtm.ac.uk/study/courses/masters-degrees/demography-health "Open this page of the LSHTM website")  
-2007: Co-facilitated a curriculum development workshop for a postgraduate module in Population and Development, [Birzeit University](https://www.birzeit.edu/), West Bank, 20-25th August  
+2007: Co-facilitated a curriculum development workshop for a postgraduate module in Population and Development, [Birzeit University](https://www.birzeit.edu/en/), West Bank, 20-25th August  
 2003-7: Head, Centre for Population Studies  
 2006: Directed the family demography group, 2nd and 3rd [ALPHA network](https://alpha.lshtm.ac.uk/ "Open this page of the LSHTM website") workshops, Somkhele, South Africa, 12-16th June & Entebbe, Uganda, 13-17th November  
 2000-3: Departmental Research Degrees Coordinator  
@@ -131,4 +131,4 @@ Yaser Al-Naser *Inequalities in Child Survival in Bahrain: The role of marriage 
 1990-1: Member, Faculty Working Group on new MSc courses  
 1989-90: Member, Faculty and MSc Medical Demography Teaching Review Groups  
 1988: Study Director, [DHS](https://dhsprogram.com/) Further Analysis Workshop on the ‘Determinants of Health and Mortality in Africa’, London, 1st September-26th October  
-1984: Consultant on the [DFID](https://www.dfid.gov.uk/) (then ODA) and Registrar General’s Office of India workshop on demographic estimation, New Delhi
+1984: Consultant on the ODA (now the [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) and Registrar General’s Office of India workshop on demographic estimation, New Delhi
