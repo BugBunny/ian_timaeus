@@ -10,10 +10,15 @@ redirect_from: /resume
 
 
 Full name: Ian Manfred TIMÆUS.  
-Emeritus Professor of Demography,  
-[Population Studies Group](https://www.lshtm.ac.uk/research/centres-projects-groups/psg "Open link in a new window"), [Faculty of Epidemiology & Population Health](https://www.lshtm.ac.uk/eph "Open link in a new window"),  
-[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/ "Open link in a new window"), University of London  
-ian.timaeus@lshtm.ac.uk  
+Emeritus Professor of Demography
+  
+[Population Studies Group](https://www.lshtm.ac.uk/research/centres-projects-groups/psg "Open link in a new window"),
+[Faculty of Epidemiology & Population Health](https://www.lshtm.ac.uk/eph "Open link in a new window"),  
+[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/ "Open link in a new window"),
+University of London
+
+ian.timaeus@lshtm.ac.uk
+ 
 Nationality: British  
 Languages: Native English, working knowledge of French
 
@@ -40,7 +45,7 @@ Languages: Native English, working knowledge of French
 
 1989: [Population Council](https://www.popcouncil.org/ "Open link in a new window") Fellow in the Social Sciences based at the [Population Studies Center](https://www.pop.upenn.edu/ "Open link in a new window"), University of Pennsylvania
 
-###Honorary Appointments
+### Honorary Appointments
 
 2014 on: Honorary Professor, [Centre for Actuarial Research](https://www.care.uct.ac.za/ "Open the Centre for Actuarial Research website"), University of Cape Town, South Africa  
 2004-12: Visiting Scientist, Population Studies Group, [Wellcome Africa Centre for Health and Population Studies](https://www.ahri.org/ "Open link in a new window"), South Africa  
