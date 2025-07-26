@@ -7,7 +7,7 @@ author_profile: true
 
 [LSHTM Research Online (Repository)](https://researchonline.lshtm.ac.uk/view/creators/ecpsitim.html "Open link in a new window") – 2001 on  
   
-Jump to: [1984-9](# M1984), [1990-4](# M1990), [1995-9](# M1995), [2000-4](# M2000), [2005-9](# M2005), [2010-14](# M2010), [2015-19](# M2015), [Grey literature](# Reports)
+Jump to: [1984-9](#M1984), [1990-4](#M1990), [1995-9](#M1995), [2000-4](#M2000), [2005-9](#M2005), [2010-14](#M2010), [2015-19](#M2015), [Grey literature](#Reports)
 
 -   ![](../images/itim_rr.gif){:height="15" width="15"}Masquelier, B. and Timæus, I. M. [Estimating adult mortality based on maternal orphanhood in populations with HIV/AIDS](https://doi.org/10.1080/00324728.2024.2416185). *Population Studies*, 2025, **79**, 337-357. ([Open-access](https://doi.org/10.1080/00324728.2024.2416185))
 
