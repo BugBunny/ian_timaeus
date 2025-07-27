@@ -1,6 +1,6 @@
 ---
-title: "convertCMC"
-excerpt: "Stata<br/><img src='/images/500x300.png'>"
+title: "convertCMC - convert century-month codes to *Stata* dates"
+excerpt: "*Stata* package<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 

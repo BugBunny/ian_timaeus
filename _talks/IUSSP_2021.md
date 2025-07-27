@@ -1,9 +1,9 @@
 ---
 title: "Imputation of full birth histories to census data"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference proceedings"
 permalink: /talks/IUSSP_2021
-venue: "International Population Conference 2021"
+venue: "2021 International Population Conference"
 date: 2021-12-6
 location: "On-line only"
 ---

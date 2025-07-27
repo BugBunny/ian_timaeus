@@ -1,7 +1,7 @@
 ---
 title: "Deaths in the Family - Inaugural professorial lecture at LSHTM"
 collection: talks
-type: "Talk"
+type: "Lecture"
 permalink: /talks/Deaths_in_the_Family
 venue: "SOAS"
 date: 2008-02-26
