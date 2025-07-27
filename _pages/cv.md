@@ -9,8 +9,8 @@ redirect_from: /resume
 # [Ian Timæus](https://bugbunny.github.io/ian_timaeus/ "Ian Timæus")
 
 
-Full name: Ian Manfred TIMÆUS.  
-*Emeritus Professor of Demography*
+Full name: Ian Manfred TIMÆUS  
+*Emeritus Professor of Demography*  
 [Population Studies Group](https://www.lshtm.ac.uk/research/centres-projects-groups/psg "Open link in a new window"),
 [Faculty of Epidemiology & Population Health](https://www.lshtm.ac.uk/eph "Open link in a new window"),  
 [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/ "Open link in a new window"),
