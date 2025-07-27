@@ -2,6 +2,7 @@
 title: "convertCMC - convert century-month codes to *Stata* dates"
 excerpt: "*Stata* package<br/><img src='/images/500x300.png'>"
 collection: portfolio
+date: 2018-12-11
 ---
 
 *Stata* package to convert century month codes (CMCs) into *Stata* dates.
