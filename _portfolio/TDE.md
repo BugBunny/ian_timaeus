@@ -1,6 +1,6 @@
 ---
 title: "Tools for Demographic Estimation"
-excerpt: "Web-based book on indirect methods for demographic estimation<br/><img src='/images/500x300.png'"
+excerpt: "Web-based book on indirect methods for demographic estimation<br/><img src='/images/500x300.png'>"
 collection: portfolio
 date: 2013-07-01
 ---
