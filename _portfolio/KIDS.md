@@ -1,6 +1,6 @@
 ---
-title: "KIDS"
-excerpt: "KwaZulu-Natal Income Dynamics Study<br/><img src='/images/500x300.png'>"
+title: "KwaZulu-Natal Income Dynamics Study"
+excerpt: "2004 wave<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 ## Abstract

@@ -1,11 +1,11 @@
 ---
-title: "APCplot"
-excerpt: "R code<br/><img src='/images/500x300.png'>"
+title: "APCplot - plots on a triangular Lexis grid"
+excerpt: "R function to plot age-period-cohort rates on a triangular grid<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+R function that plots of a set of age-period-cohort rates (i.e. a Lexis surface) using a triangular grid. `APCplot`can plot log rates, compare the rates in sub-populations, and plot either the individual APC rates for each triangle on the Lexis grid or produce contour plots
 
-Plot age-period-cohort rates and life courses on a Lexis grid of equilateral triangles using R.
 
 [https://github.com/BugBunny/APCplot](https://github.com/BugBunny/APCplot "Open link in a new window") 
 
-(To install, use:  devtools::install\_github(“BugBunny/APCplot”); requires Ternary)
+(To install, use:  devtools::install\_github(“BugBunny/APCplot”); requires `[Ternary](https://github.com/ms609/Ternary/)`)
