@@ -47,7 +47,7 @@ Languages: Native English, working knowledge of French
 
 ### Honorary Appointments
 
-2014 on: Honorary Professor, [Centre for Actuarial Research](https://www.care.uct.ac.za/ "Open the Centre for Actuarial Research website"), University of Cape Town, South Africa  
+2014 on: Honorary Professor, [Centre for Actuarial Research](https://commerce.uct.ac.za/actuarial-science/centre-actuarial-research), University of Cape Town, South Africa  
 2004-12: Visiting Scientist, Population Studies Group, [Wellcome Africa Centre for Health and Population Studies](https://www.ahri.org/ "Open link in a new window"), South Africa  
 2009: External Adviser, Strategic Awards Committee, The Wellcome Trust  
 2004-7: Member, Scientific Advisory Board, [South African Centre for Epidemiological Modelling and Analysis](https://www.sacema.com/ "SACEMA")  
@@ -79,13 +79,13 @@ Languages: Native English, working knowledge of French
 2001-3: Co-investigator, Rapid AIDS Mortality Surveillance in South Africa (funded by Bristol Myers Squibb ‘Secure the Future’)  
 2001-3: Co-investigator, AIDS in Namibian Society (funded by the Academy of Finland)  
 2000-5: Principal Investigator, the Changing Impact of HIV/AIDS on Households in a Rural District of South Africa ([Wellcome Trust](https://www.wellcome.ac.uk/ "Open The Wellcome Trust website") post-doctoral fellowship for Dr. Vicky Hosegood)  
-1999: Consultant to the [World Health Organization](https://www.who.int/whosis) Epidemiology and Burden of Disease Department advising on life tables for the years 1999 & 2000 in countries in the African region  
+1999: Consultant to the [World Health Organization](https://data.who.int/) Epidemiology and Burden of Disease Department advising on life tables for the years 1999 & 2000 in countries in the African region  
 1998-2003: Co-investigator, Collaborative research and training in Africa and the Middle East (funded by the [Mellon Foundation](https://www.mellon.org/))  
 1996-8: Manager, [DFID](https://www.dfid.gov.uk/)\-funded project for technical assistance to the [Central Department of Population Studies](https://www.cdps.edu.np/ "Open link in a new window"), Tribhuvan University, Kathmandu, Nepal  
 1994-5: Consultant to the Ministry of Economic Planning and Development, Mauritius, advising on the national [burden of disease](https://www.healthmetricsandevaluation.org/gbd) study  
 1994: Consultant to the [United Nations’ Population Division](https://www.un.org/development/desa/pd/), producing a report on sex differentials in the use of health care services by children  
 1992: Consultant to the World Bank, estimating age patterns of mortality in Sub-Saharan Africa as background work for the [World Development Report, 1993](https://hdl.handle.net/10986/5976)  
-1992-4: Co-Investigator, collaborating on the proposal and participating in an DFID (then ODA) funded research project into ‘Environment and health in developing countries: an analysis of intra-urban differentials’  
+1992-4: Co-Investigator, collaborating on the proposal and participating in an ODA (now the [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) funded research project into ‘Environment and health in developing countries: an analysis of intra-urban differentials’
 1990: Collaborated in the design, training and initial fieldwork for a retrospective childhood mortality survey conducted by [MRC, The Gambia](https://www.mrc.gm/) to measure the impact on mortality of insecticide-impregnated bed nets  
 1988-9: Consultant to the World Bank, preparing a review of methods for measuring adult mortality and a proposal for a research project on adult mortality  
 1987: Consultant to the World Bank, preparing a report for a World Bank/WHO meeting on the objectives and design of a possible programme of ‘Country Health Studies’  
@@ -94,7 +94,7 @@ Languages: Native English, working knowledge of French
 1985-6: Consultant with Dar Al-Handasah Consultants on the Çukurova Metropolitan Region Urban Development Project in Turkey. Responsible for the baseline surveys of low-income areas. Prepared a report on housing, sanitation and child mortality in the region and a proposal for the evaluation of the public health impact of the project  
 1983-4: Consultant to the World Fertility Survey, preparing an assessment of the fertility and mortality estimates obtained from WFS household surveys  
 1983: Consultant to the World Fertility Survey, undertaking the evaluation of the Lesotho Fertility Survey 1977  
-1982-4: Demographic Advisor for ODA (now the[FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) to the POPTRAN computer-assisted population education project at University College, Cardiff
+1982-4: Demographic Advisor for ODA (now the [FCDO](https://www.gov.uk/government/organisations/foreign-commonwealth-development-office)) to the POPTRAN computer-assisted population education project at University College, Cardiff
 
 ### Research students
 

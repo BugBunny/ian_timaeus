@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-*This is a work-related web site and therefore rather boring unless you are (perhaps even if you are) a demographer. It provides access to those of my publications that can be downloaded from the web (including several that are no longer readily available elsewhere). I have also linked up my CV to make it more meaningful. Other content may appear in due course.*
+[!NOTE]
+This is a work-related web site and therefore rather boring unless you are (perhaps even if you are) a demographer. It provides access to those of my publications that can be downloaded from the web (including several that are no longer readily available elsewhere). I have also linked up my CV to make it more meaningful. Other content may appear in due course.
+
+[Personal webpages](https://sites.google.com/view/iantimaeus/)
 
 I started my career in the software industry but began working in 1980 in what has been successively titled the Centre/Department of Population Studies/Health at the London School of Hygiene & Tropical Medicine (LSHTM). My first degree is in social anthropology and I like to think of myself as a social scientist, although most of my work has been in quantitative demography. I did an MSc in Demography at LSE and completed a PhD at LSHTM on the estimation of adult mortality from data on orphanhood.
 
