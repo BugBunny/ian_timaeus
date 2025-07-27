@@ -1,6 +1,6 @@
 ---
-title: "oRphanhood - estimate orphanhood by age and vice versa"
-excerpt: "R code<br/><img src='/images/500x300.png'>"
+title: "oRphanhood - estimate maternal and paternal orphanhood by age"
+excerpt: "R script<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
