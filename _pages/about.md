@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[!NOTE]
-This is a work-related web site and therefore rather boring unless you are (perhaps even if you are) a demographer. It provides access to those of my publications that can be downloaded from the web (including several that are no longer readily available elsewhere). I have also linked up my CV to make it more meaningful. Other content may appear in due course.
+[!NOTE]This is a work-related web site and therefore rather boring unless you are (perhaps even if you are) a demographer. It provides access to those of my publications that can be downloaded from the web (including several that are no longer readily available elsewhere). I have also linked up my CV to make it more meaningful. Other content may appear in due course.
 
 [Personal webpages](https://sites.google.com/view/iantimaeus/)
 

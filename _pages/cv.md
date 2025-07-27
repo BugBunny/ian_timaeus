@@ -10,15 +10,12 @@ redirect_from: /resume
 
 
 Full name: Ian Manfred TIMÆUS.  
-Emeritus Professor of Demography
-  
+*Emeritus Professor of Demography*
 [Population Studies Group](https://www.lshtm.ac.uk/research/centres-projects-groups/psg "Open link in a new window"),
 [Faculty of Epidemiology & Population Health](https://www.lshtm.ac.uk/eph "Open link in a new window"),  
 [London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/ "Open link in a new window"),
 University of London
 
-ian.timaeus@lshtm.ac.uk
- 
 Nationality: British  
 Languages: Native English, working knowledge of French
 
