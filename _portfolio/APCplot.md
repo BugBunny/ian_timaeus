@@ -9,4 +9,4 @@ R function that plots of a set of age-period-cohort rates (i.e. a Lexis surface)
 
 [https://github.com/BugBunny/APCplot](https://github.com/BugBunny/APCplot "Open link in a new window") 
 
-(To install, use:  devtools::install\_github(“BugBunny/APCplot”); requires `[Ternary](https://github.com/ms609/Ternary/)`)
+To install, use: devtools::install\_github(“BugBunny/APCplot”); requires [`Ternary`](https://github.com/ms609/Ternary/)
