@@ -53,7 +53,7 @@ Languages: Native English, working knowledge of French
 2002-8: Editorial Board, *[Southern African Journal of Demography](https://www.jstor.org/journal/soutafrijourdemo)*  
 2000-4: Member, Scientific Committee on Emerging Health Threats, [International Union for the Scientific Study of Population](https://www.iussp.org/)  
 1999-2010: Member, [UNAIDS/WHO Reference Group on HIV/AIDS Estimates, Modelling and Projections](https://www.epidem.org/ "Open the UNAIDS Reference Group web pages in a new window"){:target="_blank" rel="noopener"}  
-1999-2015: Editorial Board, *[Demographic Research](https://www.demographic-research.org/ "Open the journal website")*
+1999-2015: Editorial Board, *[Demographic Research](https://www.demographic-research.org/ "Open the journal website")*  
 1998-2001: Visiting Scientist, Burden of Disease Unit, [South African Medical Research Council](https://www.mrc.ac.za/ "Open link in a new window"){:target="_blank" rel="noopener"}  
 1995-2011: Joint Editor, *[Population Studies](https://www.tandfonline.com/action/aboutThisJournal?show=aimsScope&journalCode=rpst20 "Open the journal website")*  
 1992-2022: Editorial Board, *[Journal of Biosocial Science](https://journals.cambridge.org/action/displayJournal?jid=JBS "Open the journal website")*  
