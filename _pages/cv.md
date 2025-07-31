@@ -11,9 +11,9 @@ redirect_from: /resume
 
 Full name: Ian Manfred TIMÆUS  
 *Emeritus Professor of Demography*  
-[Population Studies Group](https://www.lshtm.ac.uk/research/centres-projects-groups/psg "Open link in a new window"),
-[Faculty of Epidemiology & Population Health](https://www.lshtm.ac.uk/eph "Open link in a new window"),  
-[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/ "Open link in a new window"),
+[Population Studies Group](https://www.lshtm.ac.uk/research/centres-projects-groups/psg "Open link in a new window"){:target="_blank" rel="noopener"},
+[Faculty of Epidemiology & Population Health](https://www.lshtm.ac.uk/eph "Open link in a new window"){:target="_blank" rel="noopener"},  
+[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/ "Open link in a new window"){:target="_blank" rel="noopener"},
 University of London
 
 Nationality: British  
@@ -40,25 +40,25 @@ Languages: Native English, working knowledge of French
 
 ### Fellowships
 
-1989: [Population Council](https://www.popcouncil.org/ "Open link in a new window") Fellow in the Social Sciences based at the [Population Studies Center](https://www.pop.upenn.edu/ "Open link in a new window"), University of Pennsylvania
+1989: [Population Council](https://www.popcouncil.org/ "Open link in a new window"){:target="_blank" rel="noopener"} Fellow in the Social Sciences based at the [Population Studies Center](https://www.pop.upenn.edu/ "Open link in a new window"){:target="_blank" rel="noopener"}, University of Pennsylvania
 
 ### Honorary Appointments
 
 2014 on: Honorary Professor, [Centre for Actuarial Research](https://commerce.uct.ac.za/actuarial-science/centre-actuarial-research), University of Cape Town, South Africa  
-2004-12: Visiting Scientist, Population Studies Group, [Wellcome Africa Centre for Health and Population Studies](https://www.ahri.org/ "Open link in a new window"), South Africa  
+2004-12: Visiting Scientist, Population Studies Group, [Wellcome Africa Centre for Health and Population Studies](https://www.ahri.org/ "Open link in a new window"){:target="_blank" rel="noopener"}, South Africa  
 2009: External Adviser, Strategic Awards Committee, The Wellcome Trust  
 2004-7: Member, Scientific Advisory Board, [South African Centre for Epidemiological Modelling and Analysis](https://www.sacema.com/ "SACEMA")  
 2004-5: Demography Subject Area Panel, [Economic and Social Research Council Postgraduate Training Guidelines and Recognition Exercise 2005](https://www.ukri.org/councils/esrc/)  
 2002-20: Honorary Treasurer, [Population Investigation Committee](https://www.lse.ac.uk/international-development/research/population-investigation-committee "Open the PIC website")  
 2002-8: Editorial Board, *[Southern African Journal of Demography](https://www.jstor.org/journal/soutafrijourdemo)*  
 2000-4: Member, Scientific Committee on Emerging Health Threats, [International Union for the Scientific Study of Population](https://www.iussp.org/)  
-1999-2010: Member, [UNAIDS/WHO Reference Group on HIV/AIDS Estimates, Modelling and Projections](https://www.epidem.org/ "Open the UNAIDS Reference Group web pages in a new window")  
+1999-2010: Member, [UNAIDS/WHO Reference Group on HIV/AIDS Estimates, Modelling and Projections](https://www.epidem.org/ "Open the UNAIDS Reference Group web pages in a new window"){:target="_blank" rel="noopener"}  
 1999-2015: Editorial Board, *[Demographic Research](https://www.demographic-research.org/ "Open the journal website")*
-1998-2001: Visiting Scientist, Burden of Disease Unit, [South African Medical Research Council](https://www.mrc.ac.za/ "Open link in a new window")  
+1998-2001: Visiting Scientist, Burden of Disease Unit, [South African Medical Research Council](https://www.mrc.ac.za/ "Open link in a new window"){:target="_blank" rel="noopener"}  
 1995-2011: Joint Editor, *[Population Studies](https://www.tandfonline.com/action/aboutThisJournal?show=aimsScope&journalCode=rpst20 "Open the journal website")*  
 1992-2022: Editorial Board, *[Journal of Biosocial Science](https://journals.cambridge.org/action/displayJournal?jid=JBS "Open the journal website")*  
 1991 on: Member, [Centre of African Studies](https://www.soas.ac.uk/cas/ "Open the CAS website"), University of London  
-1989-93: Member, Scientific Committee on Adult Mortality, [International Union for the Scientific Study of Population](https://www.iussp.org/ "Open the IUSSP website in a new window")
+1989-93: Member, Scientific Committee on Adult Mortality, [International Union for the Scientific Study of Population](https://www.iussp.org/ "Open the IUSSP website in a new window"){:target="_blank" rel="noopener"}
 
 ### Projects and Consultancies
 
@@ -78,7 +78,7 @@ Languages: Native English, working knowledge of French
 2000-5: Principal Investigator, the Changing Impact of HIV/AIDS on Households in a Rural District of South Africa ([Wellcome Trust](https://www.wellcome.ac.uk/ "Open The Wellcome Trust website") post-doctoral fellowship for Dr. Vicky Hosegood)  
 1999: Consultant to the [World Health Organization](https://data.who.int/) Epidemiology and Burden of Disease Department advising on life tables for the years 1999 & 2000 in countries in the African region  
 1998-2003: Co-investigator, Collaborative research and training in Africa and the Middle East (funded by the [Mellon Foundation](https://www.mellon.org/))  
-1996-8: Manager, [DFID](https://www.dfid.gov.uk/)\-funded project for technical assistance to the [Central Department of Population Studies](https://www.cdps.edu.np/ "Open link in a new window"), Tribhuvan University, Kathmandu, Nepal  
+1996-8: Manager, [DFID](https://www.dfid.gov.uk/)\-funded project for technical assistance to the [Central Department of Population Studies](https://www.facebook.com/profile.php?id=100083471615736&sk=about "Open link in a new window"){:target="_blank" rel="noopener"}, Tribhuvan University, Kathmandu, Nepal  
 1994-5: Consultant to the Ministry of Economic Planning and Development, Mauritius, advising on the national [burden of disease](https://www.healthmetricsandevaluation.org/gbd) study  
 1994: Consultant to the [United Nations’ Population Division](https://www.un.org/development/desa/pd/), producing a report on sex differentials in the use of health care services by children  
 1992: Consultant to the World Bank, estimating age patterns of mortality in Sub-Saharan Africa as background work for the [World Development Report, 1993](https://hdl.handle.net/10986/5976)  
@@ -112,7 +112,7 @@ Yaser Al-Naser *Inequalities in Child Survival in Bahrain: The role of marriage 
 
 ### Teaching, Training and Academic Management
 
-2013-16: External Examiner, MSc in Population and Development, [London School of Economics](https://www.lse.ac.uk/ "Open link in a new window")  
+2013-16: External Examiner, MSc in Population and Development, [London School of Economics](https://www.lse.ac.uk/ "Open link in a new window"){:target="_blank" rel="noopener"}  
 2012-15: Produced 13 half-day sessions of distance-learning materials in demography for the [Population Analysis for Policies & Programmes](https://papp.iussp.org/) project and for LSHTM.  
 1982 on: Engaged in teaching on LSH&TM’s [MSc](https://www.lshtm.ac.uk/study/courses/masters-degrees "Open this page of the LSHTM website") and [short course](https://www.lshtm.ac.uk/study/courses/short-courses "Open this page of the LSHTM website") programmes, recently  teaching on the following MSc course modules:  
 –  Population, Poverty and Environment (Module Organizer)  
@@ -129,7 +129,7 @@ Yaser Al-Naser *Inequalities in Child Survival in Bahrain: The role of marriage 
 1999-2001: Faculty Research Assessment Exercise Co-ordinator  
 1994-7 & 1999-2000: Chair, Boards of Examiners, [MSc in Medical Demography](https://www.lshtm.ac.uk/study/courses/masters-degrees/demography-health) and [MSc in Reproductive and Sexual Health Research](https://www.lshtm.ac.uk/study/courses/masters-degrees/reproductive-sexual-health-research), University of London  
 1991-5 & 1997-8: Course Organizer, [MSc in Medical Demography](https://www.lshtm.ac.uk/study/courses/masters-degrees/demography-health), chairing the Course Committee, and sitting on the Faculty Taught Course Committee and LSH&TM’s Education Committee  
-1995: Organized and taught on a three week workshop on the ‘Demographic estimation of fertility and mortality’ for staff and associates of the [Central Department of Population Studies](https://www.cdps.edu.np/ "Open link in a new window"), Tribhuvan University, Kathmandu, Nepal  
+1995: Organized and taught on a three week workshop on the ‘Demographic estimation of fertility and mortality’ for staff and associates of the [Central Department of Population Studies](https://www.facebook.com/profile.php?id=100083471615736&sk=about "Open link in a new window"){:target="_blank" rel="noopener"}, Tribhuvan University, Kathmandu, Nepal  
 1990-1: Member, Faculty Working Group on new MSc courses  
 1989-90: Member, Faculty and MSc Medical Demography Teaching Review Groups  
 1988: Study Director, [DHS](https://dhsprogram.com/) Further Analysis Workshop on the ‘Determinants of Health and Mortality in Africa’, London, 1st September-26th October  
