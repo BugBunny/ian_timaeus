@@ -1,6 +1,6 @@
 ---
 title: "APCplot - plots on a triangular Lexis grid"
-excerpt: "R function to plot age-period-cohort rates on a triangular grid<br/><img src='/images/500x300.png'>"
+excerpt: "R function to plot age-period-cohort rates on a triangular grid<br/><img src='../images/Rlogo.svg' width='80' height='62'>"
 collection: portfolio
 date: 2024-03-19
 ---
