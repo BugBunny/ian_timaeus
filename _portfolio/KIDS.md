@@ -1,6 +1,6 @@
 ---
 title: "KwaZulu-Natal Income Dynamics Study"
-excerpt: "2004 wave<br/><img src='/images/500x300.png'>"
+excerpt: "2004 wave<br/><img src='../images/ukzn-logo.jpg' width='80' height='80'>"
 collection: portfolio
 date: 2007-10-22
 ---
