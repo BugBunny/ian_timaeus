@@ -1,6 +1,6 @@
 ---
 title: "oRphanhood - estimate maternal and paternal orphanhood by age"
-excerpt: "R script<br/><img src='/images/500x300.png'>"
+excerpt: "R script<br/><img src='/images/Rlogo.svg'>"
 collection: portfolio
 date: 2021-09-20
 ---
