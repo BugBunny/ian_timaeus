@@ -144,6 +144,7 @@ Jump to: [1984-9](#M1984), [1990-4](#M1990), [1995-9](#M1995), [2000-4](#M2000),
 
 ### Reports, Preprints and Conference Papers
 
+-   Moultrie, T. A. and Timæus, I. M.  [Institutions and the future African fertility decline](https://doi.org/10.31235/osf.io/wzupb_v1). SocArXiv, 2026 (August 2). doi: [10.31235/osf.io/wzupb_v1](https://doi.org/10.31235/osf.io/wzupb_v1)
 -   Adjiwanou, V., Alam, N., Alkema, L., Asiki, G., Bawah, A., Béguy, D., et al. [Measuring excess mortality during the COVID-19 pandemic in low- and lower-middle income countries: the need for mobile phone surveys](https://doi.org/10.31235/osf.io/4bu3q). SocArXiv, 2020 (May 19). doi: [10.31235/osf.io/4bu3q](https://doi.org/10.31235/osf.io/4bu3q)
 -   ![](../images/itim_rr.gif){:height="15" width="15"}Timæus, I. M. ‘[Deaths in the family: AIDS, demography and poverty in Africa](..\files\Deaths_in_the_Family.pdf "Download")‘. Inaugural Lecture delivered to the London School of Hygiene & Tropical Medicine, 26 February, 2008.
 -   ![](../images/itim_rr.gif){:height="15" width="15"}Timæus, I. M. ‘[Estimation and Projection of Dual Orphans in Populations with Generalized HIV Epidemics: Updated Methods](..\files\Dual-Orphanhood-2008-final.pdf "Download")‘. Report to UNAIDS, 2008.
