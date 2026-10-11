@@ -2,7 +2,7 @@
 title: "Tools for Demographic Estimation"
 type: "Distance learning"
 permalink: /teaching/TDE
-venue: ""
+venue: "on-line"
 date: 2013-07-01
 location: "On-line"
 ---
