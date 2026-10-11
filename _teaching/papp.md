@@ -3,7 +3,7 @@ title: "Population Analysis for Policy and Programmes"
 collection: teaching
 type: "Distance learning"
 permalink: /teaching/papp
-venue: ""
+venue: "on-line"
 date: 2015-01-01
 location: "On-line"
 ---
